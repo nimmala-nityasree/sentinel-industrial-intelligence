@@ -99,5 +99,4 @@ sentinel-industrial-intelligence/
 Actively built for ET AI Hackathon 2026 submission. See `docs/architecture.md` for design
 rationale and `docs/deployment_guide.md` for judge-facing setup instructions.
 =======
-# sentinel-industrial-intelligence
->>>>>>> fb71a205db0fba6fee5bd12482c417f5a6fcb469
+
