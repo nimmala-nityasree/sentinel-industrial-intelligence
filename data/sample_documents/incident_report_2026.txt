@@ -1,0 +1,19 @@
+INCIDENT REPORT
+Report ID: INC-2026-0034
+Date occurred: 2026-05-18
+Equipment tag: C-220
+Title: Compressor vibration event with thermal spike
+
+Description:
+During a scheduled compressor run in Unit 3, monitoring personnel detected
+an unusual vibration signature in the compressor housing, followed almost
+immediately by a temperature spike recorded on the adjacent instrumentation
+loop. The event lasted under two minutes and the compressor was
+automatically taken offline as a precaution. No equivalent event had been
+found in prior compressor maintenance records at the time of filing.
+
+Symptoms observed: unusual vibration, temperature spike, brief automatic
+shutdown
+
+Investigation status: Open. No linkage yet established to prior incidents
+on other equipment in the same process unit.

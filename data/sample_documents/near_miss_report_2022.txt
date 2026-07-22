@@ -1,0 +1,20 @@
+NEAR-MISS REPORT
+Report ID: NM-2022-0091
+Date occurred: 2022-03-11
+Equipment tag: V-204
+Title: Gas pressure anomaly during feed valve operation
+
+Description:
+During routine operation, shift personnel observed an unusual vibration in
+the feed valve assembly accompanied by a sudden temperature spike in the
+adjacent piping section. Gas pressure sensor readings showed a transient
+spike of 12% above baseline for approximately 90 seconds before returning
+to normal. No injury or shutdown occurred. Investigation found that the
+pressure sensor data was not cross-referenced against the active permit-to-
+work log at the time of the event.
+
+Symptoms observed: unusual vibration, temperature spike, transient gas
+pressure spike
+
+Corrective action taken: Verbal briefing to shift team. No procedure change
+was issued at this time.
